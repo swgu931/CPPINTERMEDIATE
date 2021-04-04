@@ -13,7 +13,7 @@ public:
     People(string n, string add, int a) : name(n), addr(add), age(a) {}
 
     // 복사 생성자, 대입연산자, Move 생성자, Move 대입연산자를 만드세요.
-    // 생행 여부를 확인하기 위해 logging 해주세요.
+    // 실행 여부를 확인하기 위해 logging 해주세요.
 
 };
 
